@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int arr_size;
+        int arr_size;
 	int arr_index;
         int arr_index1;
 	int max_value;
