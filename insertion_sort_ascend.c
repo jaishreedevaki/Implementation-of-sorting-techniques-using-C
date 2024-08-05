@@ -25,7 +25,7 @@ int main()
   	   	previous_index=current_index-1;
 	   }
   }
-    for(arr_index=0;arr_index<arr_size;arr_index++)
+   for(arr_index=0;arr_index<arr_size;arr_index++)
   {
   	printf("%d ",input_arr[arr_index]);
   }
