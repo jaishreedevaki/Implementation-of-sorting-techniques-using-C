@@ -13,7 +13,7 @@ int main()
 		scanf("%d",&input_array[arr_index]);
 	}
 	int sort_upto=arr_size-1;
-    while(sort_upto)
+        while(sort_upto)
 	{ 
 		for(arr_index1=0;arr_index1<sort_upto;arr_index1++)
 		{
