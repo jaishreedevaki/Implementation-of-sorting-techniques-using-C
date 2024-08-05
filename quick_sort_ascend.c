@@ -12,7 +12,7 @@ int quick_sort(int input_array[],int start,int end)
 		{
 			start_ptr++;
 		}
-	    else if(input_array[end_ptr]>=pivot)
+	        else if(input_array[end_ptr]>=pivot)
 		{
 			end_ptr--;
 		}
