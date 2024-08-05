@@ -3,7 +3,7 @@ int main()
 {
     int arr_size;
 	int arr_index;
-    int arr_index1;
+        int arr_index1;
 	int min_value;
 	int min_value_index;
 	int temp;
