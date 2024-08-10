@@ -30,5 +30,5 @@ int main()
 	{
 		printf("%d ",input_array[arr_index]);
 	}
-
+        return 0;
 }
