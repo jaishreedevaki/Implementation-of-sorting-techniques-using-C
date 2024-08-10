@@ -29,4 +29,5 @@ int main()
   {
   	printf("%d ",input_arr[arr_index]);
   }
+  return 0;
 }
